@@ -382,5 +382,21 @@
 	"yusk": {
 		"name": "Yusk",
 		"title": "Frozen Wolf"
+	},
+	"lukwos": {
+		"name": "Lukwos",
+		"title": "Nemesis Fury"
+	},
+	"vilkas": {
+		"name": "Vilkas",
+		"title": "Childhood Friend"
+	},
+	"okami": {
+		"name": "Õkami",
+		"title": "Spark of Joy"
+	},
+	"kafka": {
+		"name": "Kafka",
+		"title": "Stellaron Hunter"
 	}
 }

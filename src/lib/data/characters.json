@@ -2,10 +2,59 @@
 	"onlyStandard": ["amber", "kaeya", "lisa"],
 	"data": [
 		{
+			"name": "luka",
+			"vision": "pyro",
+			"rarity": 4,
+			"wishBoxPosition": { "l": -10, "h": 190, "t": 70 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
+			"name": "Sampo",
+			"vision": "anemo",
+			"rarity": 4,
+			"wishBoxPosition": { "l": -10, "h": 190, "t": 70 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
+			"name": "Serval",
+			"vision": "electro",
+			"rarity": 4,
+			"wishBoxPosition": { "l": -10, "h": 190, "t": 70 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
+			"name": "Kafka",
+			"vision": "electro",
+			"rarity": 5,
+			"wishBoxPosition": { "l": -10, "h": 190, "t": 70 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
+			"name": "okami",
+			"vision": "electro",
+			"rarity": 4,
+			"wishBoxPosition": { "l": -10, "h": 190, "t": 70 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
+			"name": "vilkas",
+			"vision": "geo",
+			"rarity": 4,
+			"wishBoxPosition": { "l": -10, "h": 190, "t": 70 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
+			"name": "lukwos",
+			"vision": "pyro",
+			"rarity": 5,
+			"wishBoxPosition": { "l": -10, "h": 190, "t": 70 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
 			"name": "yusk",
 			"vision": "cryo",
 			"rarity": 5,
-			"wishBoxPosition": { "l": -35, "h": 205, "t": 62 },
+			"wishBoxPosition": { "l": -10, "h": 190, "t": 70 },
 			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
 		},
 		{

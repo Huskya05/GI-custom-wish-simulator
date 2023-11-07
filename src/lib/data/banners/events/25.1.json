@@ -8,17 +8,17 @@
 				"events": {
 					"featured": [
 						{
-							"bannerName": "artic-loneliness-in-the-wild-1",
+							"bannerName": "artic-loneliness-1",
 							"character": "yusk",
 							"textOffset": { "l": 50.75, "b": 9 }
 						},
 						{
-							"bannerName": "immaculate-pulse-2",
-							"character": "baizhu",
+							"bannerName": "blazing-rivalry-1",
+							"character": "lukwos",
 							"textOffset": { "l": 50.75, "b": 9 }
 						}
 					],
-					"rateup": ["razor", "thoma", "gorou"]
+					"rateup": ["razor", "vilkas", "okami"]
 				},
 				"weapons": {
 					"bannerName": "epitome-invocation-55",
