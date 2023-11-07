@@ -1,5 +1,5 @@
 # This is a copy of AguzzTN54's GI Wish Simulator
-##This version includes all GI characters but also new ones like my ocs
+## This version includes all GI characters but also new ones like my ocs
 
 # Realistic Genshin Impact Wish Simulator
 
