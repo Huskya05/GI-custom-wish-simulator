@@ -379,6 +379,26 @@
 		"name": "Zhongli",
 		"title": "Vago Mundo"
 	},
+	"aether": {
+		"name": "Aether",
+		"title": "--"
+	},
+	"lumine": {
+		"name": "Lumine",
+		"title": "--"
+	},
+	"navia": {
+		"name": "Navia",
+		"title": "--"
+	},
+	"arlecchino": {
+		"name": "Arlecchino",
+		"title": "--"
+	},
+	"dahlia": {
+		"name": "Dahlia",
+		"title": "--"
+	},
 	"yusk": {
 		"name": "Yusk",
 		"title": "Frozen Wolf"
@@ -395,8 +415,32 @@
 		"name": "Õkami",
 		"title": "Spark of Joy"
 	},
-	"kafka": {
-		"name": "Kafka",
-		"title": "Stellaron Hunter"
+	"gepard": {
+		"name": "Gepard",
+		"title": "--"
+	},
+	"bronya": {
+		"name": "Bronya",
+		"title": "--"
+	},
+	"bailu": {
+		"name": "Bailu",
+		"title": "--"
+	},
+	"himeko": {
+		"name": "Himeko",
+		"title": "--"
+	},
+	"yanqing": {
+		"name": "Yanqing",
+		"title": "--"
+	},
+	"welt": {
+		"name": "Welt",
+		"title": "--"
+	},
+	"clara": {
+		"name": "Clara",
+		"title": "--"
 	}
 }

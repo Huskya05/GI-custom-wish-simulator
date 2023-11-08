@@ -2,28 +2,49 @@
 	"onlyStandard": ["amber", "kaeya", "lisa"],
 	"data": [
 		{
-			"name": "luka",
+			"name": "welt",
+			"vision": "geo",
+			"rarity": 5,
+			"wishBoxPosition": { "l": -10, "h": 190, "t": 70 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
+			"name": "clara",
+			"vision": "cryo",
+			"rarity": 5,
+			"wishBoxPosition": { "l": -10, "h": 190, "t": 70 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
+			"name": "yanqing",
+			"vision": "cryo",
+			"rarity": 5,
+			"wishBoxPosition": { "l": -10, "h": 190, "t": 70 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
+			"name": "gepard",
+			"vision": "cryo",
+			"rarity": 5,
+			"wishBoxPosition": { "l": -10, "h": 190, "t": 70 },
+			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
+			"name": "himeko",
 			"vision": "pyro",
-			"rarity": 4,
+			"rarity": 5,
 			"wishBoxPosition": { "l": -10, "h": 190, "t": 70 },
 			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
 		},
 		{
-			"name": "Sampo",
+			"name": "bronya",
 			"vision": "anemo",
-			"rarity": 4,
+			"rarity": 5,
 			"wishBoxPosition": { "l": -10, "h": 190, "t": 70 },
 			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
 		},
 		{
-			"name": "Serval",
-			"vision": "electro",
-			"rarity": 4,
-			"wishBoxPosition": { "l": -10, "h": 190, "t": 70 },
-			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
-		},
-		{
-			"name": "Kafka",
+			"name": "bailu",
 			"vision": "electro",
 			"rarity": 5,
 			"wishBoxPosition": { "l": -10, "h": 190, "t": 70 },
@@ -33,21 +54,19 @@
 			"name": "okami",
 			"vision": "electro",
 			"rarity": 4,
-			"wishBoxPosition": { "l": -10, "h": 190, "t": 70 },
-			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+			"wishBoxPosition": { "t": 66, "l": 40 }
 		},
 		{
 			"name": "vilkas",
 			"vision": "geo",
 			"rarity": 4,
-			"wishBoxPosition": { "l": -10, "h": 190, "t": 70 },
-			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+			"wishBoxPosition": { "l": 80, "h": 160, "t": 70 }
 		},
 		{
 			"name": "lukwos",
 			"vision": "pyro",
 			"rarity": 5,
-			"wishBoxPosition": { "l": -10, "h": 190, "t": 70 },
+			"wishBoxPosition": { "l": 20, "h": 190, "t": 70 },
 			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
 		},
 		{
@@ -56,6 +75,27 @@
 			"rarity": 5,
 			"wishBoxPosition": { "l": -10, "h": 190, "t": 70 },
 			"buttonOffset": { "l": 50, "w": 120, "t": 25 }
+		},
+		{
+			"name": "dahlia",
+			"vision": "hydro",
+			"rarity": 4,
+			"wishBoxPosition": { "l": -35, "h": 205, "t": 62 },
+			"buttonOffset": { "l": 52, "w": 130, "t": 35 }
+		},
+		{
+			"name": "arlecchino",
+			"vision": "pyro",
+			"rarity": 5,
+			"wishBoxPosition": { "l": -35, "h": 205, "t": 62 },
+			"buttonOffset": { "l": 52, "w": 130, "t": 35 }
+		},
+		{
+			"name": "navia",
+			"vision": "geo",
+			"rarity": 5,
+			"wishBoxPosition": { "l": -35, "h": 205, "t": 62 },
+			"buttonOffset": { "l": 52, "w": 130, "t": 35 }
 		},
 		{
 			"name": "furina",
@@ -566,6 +606,19 @@
 			"name": "amber",
 			"rarity": 4,
 			"vision": "pyro",
+			"release": "1.0-0",
+			"wishBoxPosition": { "t": 55, "h": 170, "l": 120 }
+		},
+		{
+			"name": "lumine",
+			"rarity": 5,
+			"vision": "anemo",
+			"release": "1.0-0"
+		},
+		{
+			"name": "aether",
+			"rarity": 5,
+			"vision": "anemo",
 			"release": "1.0-0",
 			"wishBoxPosition": { "t": 55, "h": 170, "l": 120 }
 		}
