@@ -34,10 +34,10 @@
 		},
 		{
 			"version": 5,
-			"characters": ["gepard", "bronya", "himeko", "bailu", "yanqing"],
+			"characters": ["gepard", "bronya", "himeko", "bailu", "yanqing", "welt", "clara"],
 			"featured": {
 				"bannerName": "wanderlust-invocation-2",
-				"character": "qiqi"
+				"character": "jean"
 			}
 		}
 	]
